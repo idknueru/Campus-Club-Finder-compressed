@@ -1,4 +1,4 @@
-# Campus Club Finder 🎓
+# Campus Club Finder 
 
 A single-page web app to explore, browse, and join campus clubs!  
 Built with modern React tools and fully responsive design.
